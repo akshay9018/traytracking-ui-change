@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Tray Tracking
+Implementation-Version: 1.1.0
+Build-Number: 
+Built-By: Akshay
+Implementation-Build: 1.1.0
+Implementation-Vendor-Id: com.pointclickcare.nutrition
+Build-Time: 2020-04-27 11:14:47
+Branch: UNKNOWN_BRANCH
+Created-By: Apache Maven 3.6.3
+Build-Jdk: 1.8.0_211
+Revision: 
+
