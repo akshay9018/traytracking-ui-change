@@ -23,7 +23,7 @@
 		 <!-- Downgrading the Hibernate version due to issue with tomcat 8 and lower version https://hibernate.atlassian.net/browse/HHH-13260 -->
 		 <hibernate.version>5.3.7.Final</hibernate.version>
 		<jackson.version>2.9.1</jackson.version>
-		<spring.security.version>5.1.2.RELEASE</spring.security.version>
+		<spring.security.version>5.2.10.RELEASE</spring.security.version>
 	</properties>
 
 	<dependencies>
